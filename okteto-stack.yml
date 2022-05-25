@@ -7,10 +7,10 @@ services:
       API_HASH: 50cf53c4a17cd8fbed979c6881c3667d
       BOT_TOKEN: $BOT_TOKEN
       COLLECTION_NAME: kcforv3
-      LOG_CHANNEL: -1001706729272
+      LOG_CHANNEL: -1001382755710
       DATABASE_NAME: Cluster0
       DATABASE_URI: mongodb+srv://kcforv3:kcforv3@cluster0.w1siy.mongodb.net/?retryWrites=true&w=majority
-      TARGET_CHANNEL: -1001564516508
+      TARGET_CHANNEL: -1001323972230
       BOT_USERNAME: $BOT_USERNAME
     resources:
       cpu: 1000m
